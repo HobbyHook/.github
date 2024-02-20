@@ -1,9 +1,9 @@
-#Hobby hook
-##Opis
+# Hobby hook
+## Opis
 
 Aplikacja HobbyHook pozwala użytkownikom na łączenie się na podstawie wspólnych zainteresowań. Użytkownicy będą mogli korzystać również z grupowych chat-roomów, kalendarzów wydarzeń, a użytkownicy biorący udział w tych aktywnościach będą mogli dodawać się do znajomych. Aplikacja będzie dostępna na systemy Web, Android i iOS.
 
-##Funkcjonalności
+## Funkcjonalności
 - Matchowanie użytkowników na podstawie wspólnych zainteresowań
 - Prywatne chaty
 - Grupowe chat-roomy
@@ -12,13 +12,13 @@ Aplikacja HobbyHook pozwala użytkownikom na łączenie się na podstawie wspól
 - Wyszukiwarka
 - System powiadomień/Push
 
-##Architektura
+## Architektura
 - Aplikacja webowa: Angular
 - Aplikacja mobilna: Flutter (Kiedys natywnie...)
 - Backend: .NET 8
 - Baza danych: MSSQL 
 
-##Właściciele projektu
+## Właściciele projektu
 - Michał Kaczmarowski
 - Joanna Piechota
 - Kamil Kot
