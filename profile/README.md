@@ -1,4 +1,3 @@
-
 # Hobby hook
 ## Opis
 
@@ -24,3 +23,6 @@ Aplikacja HobbyHook pozwala użytkownikom na łączenie się na podstawie wspól
 - Joanna Piechota
 - Kamil Kot
 - Szczepan Abramczyk
+
+# Schemat Bazy Danych
+![SchematHobbyHook-2](https://github.com/HobbyHook/.github/assets/33779336/87f561c8-d017-4855-bd15-dbe3e34f7593)
